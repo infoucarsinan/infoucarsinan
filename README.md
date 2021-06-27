@@ -1,4 +1,4 @@
-<img  alt="Do something great"  src="https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80" align="center" width="1200" height="250">
+![DoGreat](https://user-images.githubusercontent.com/82370325/123555717-b6a8ba80-d787-11eb-93e1-abe9f9afb16a.png)
 
 <h1 align="center"> Hi. Welcome 👋 I'm Sinan </h1>
 <h3 align="center">I am a successful web developer and a trained computer scientist. </h3>
