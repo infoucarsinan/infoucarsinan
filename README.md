@@ -30,5 +30,5 @@
 <a href="https://storybook.js.org/"><img alt="Storybook" src="https://pbs.twimg.com/profile_images/1100804485616566273/sOct-Txm_400x400.png" align="left" width="40"></a>
 <a href="https://heroku.com"><img alt="Heroku" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" align="left" width="40"></a>
 <a href="https://www.adobe.com/de/products/xd.html"><img alt="Aodobe XD" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" align="left" width="40"></a>
-<a href="https://getbootstrap.com/"><img  alt="Bootstrap" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg"  align="left"  width="50"></a>
-<a href="https://docs.microsoft.com/de-de/dotnet/csharp/"><img  alt="C#" src="https://static.cdnlogo.com/logos/c/27/c.svg"  align="left"  width="50"></a>
+<a href="https://getbootstrap.com/"><img  alt="Bootstrap" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg"  align="left"  width="40"></a>
+<a href="https://docs.microsoft.com/de-de/dotnet/csharp/"><img  alt="C#" src="https://static.cdnlogo.com/logos/c/27/c.svg"  align="left"  width="40"></a>
