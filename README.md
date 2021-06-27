@@ -1,7 +1,7 @@
-<img  alt="Do"  src="https://user-images.githubusercontent.com/82370325/123555767-169f6100-d788-11eb-96bc-b0f3167932dd.png">
+<h1 align="center"> Hi. Welcome 👋 I'm Sinan.</h1>
+<h3 align="center">I am a successful web developer and a trained computer scientist.</h3>
 
-<h1 align="center"> Hi. Welcome 👋 I'm Sinan </h1>
-<h3 align="center">I am a successful web developer and a trained computer scientist. </h3>
+<img  alt="Do"  src="https://user-images.githubusercontent.com/82370325/123555767-169f6100-d788-11eb-96bc-b0f3167932dd.png">
 
 <img  alt="JavaScript"  src="https://assets.website-files.com/5e9aa66fd3886aa2b4ec01ca/5fd3903b41d20bd2244ec3fd_programminglanguagesstickers-p-1600.jpeg" align="right" height="150">
 
