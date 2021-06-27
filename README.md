@@ -1,4 +1,4 @@
-![DoGreat](https://user-images.githubusercontent.com/82370325/123555717-b6a8ba80-d787-11eb-93e1-abe9f9afb16a.png)
+<img  alt="Do"  src="https://user-images.githubusercontent.com/82370325/123555767-169f6100-d788-11eb-96bc-b0f3167932dd.png">
 
 <h1 align="center"> Hi. Welcome 👋 I'm Sinan </h1>
 <h3 align="center">I am a successful web developer and a trained computer scientist. </h3>
