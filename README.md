@@ -1,5 +1,5 @@
 <h1 align="center"> Hi. Welcome 👋 I'm Sinan</h1>
-<h3 align="center">I am a successful web developer and a trained computer scientist.</h3>
+<h3 align="center">Web developer & Computer scientist</h3>
 
 <img  alt="Do"  src="https://user-images.githubusercontent.com/82370325/123556082-9aa61880-d789-11eb-899d-86e2a6bf08e1.png">
 
