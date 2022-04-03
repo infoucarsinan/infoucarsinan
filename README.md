@@ -5,4 +5,4 @@
 - ✏️ I’m currently learning more about React, Vue.js, TypeScript and MongoDB
 - 👀 I’m looking to collaborate on open source
 - 🙋🏼‍♀️ Ask me about anything
-- 📬 How to reach me: ucarsinan@outlook.com
+- 📬 How to reach me: info@sinanucar.info
